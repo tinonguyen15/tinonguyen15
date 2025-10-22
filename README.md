@@ -1,83 +1,58 @@
-﻿<!-- TINONGUYEN -->
+﻿<!-- 🌍 TINONGUYEN PROFILE -->
 <a href="#" target="_blank">
-  <img src="svg/tinonguyen.svg" width="1200" alt="Click to see the source" />
+  <img src="svg/tinonguyen.svg" width="1200" alt="TinoNguyen Earth Animation" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
+<!-- 👋 INTRO -->
+<h1 align="center">Hi Everyone! 👋 I'm <span style="color:#00C2FF;">Tino Nguyen</span></h1>
+<h3 align="center">💻 Full-stack Developer | 🇻🇳 Viet Nam</h3>
 
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=00758F" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VSCode-282C34?logo=visual-studio-code&logoColor=007ACC" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" height="25" /></span>
-&nbsp;
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=550&lines=Passionate+about+web+and+system+development;Always+learning+new+technologies;Turning+ideas+into+beautiful+products" />
+</p>
 
-<br>
+---
+
+<h2 align="center">🛠 Technologies & Tools 🛠</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,laravel,php,nodejs,express,mysql,tailwind,bootstrap,figma,vscode,github,git&perline=8" />
+</p>
+
+---
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align=center>
-  <a href="#" title="TinoNguyen">
-    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinonguyen15&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00C2FF&text_color=ffffff&icon_color=00C2FF&bg_color=20232a&langs_count=8&layout=compact&border_color=00C2FF&hide_border=true" />
-  </a>
-  <a href="#" title="TinoNguyen">
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=tinonguyen15&show_icons=true&theme=react&border_color=00C2FF&hide_border=true" />
-  </a>
-</div>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tinonguyen15&show_icons=true&theme=tokyonight&hide_border=true&border_color=00C2FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinonguyen15&layout=compact&theme=tokyonight&hide_border=true&border_color=00C2FF" height="165" />
+</p>
 
-<h2 align="center">🌐 Where to find me 🌐</h2>
-<br>
-<div align="center" style="
-    display: flex;
-    /* align-content: center; */
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items: center;
-">
-  <a href="https://tinonguyen.online" target="_blank">
-    <img width="90" height="90" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="website" />
-  </a>
-  <a href="https://www.facebook.com/tinonguyen.15" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/tinonguyen" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />
-  </a>
-  <a href="https://www.youtube.com/@tinonguyen" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" />
-  </a>
-  <a href="mailto:contact@tinonguyen.online">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tinonguyen15&theme=tokyonight&hide_border=true&border=00C2FF" height="165" />
+</p>
 
-<br>
+---
 
-<h2 align="center">📑 Quote of the Day 📑</h2>
-<br>
-<div align="right">
+<h2 align="center">🌐 Where to Find Me 🌐</h2>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
+<p align="center">
+  <a href="https://tinonguyen.online" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="45" /></a>
+  <a href="https://www.facebook.com/tinonguyen.15" target="_blank"><img src="https://img.icons8.com/bubbles/100/facebook-new.png" width="60" /></a>
+  <a href="https://www.youtube.com/@TiNoNguyen.15" target="_blank"><img src="https://img.icons8.com/bubbles/100/youtube-squared.png" width="60" /></a>
+  <a href="mailto:nguyenquochuy.150106@gmail.com"><img src="https://img.icons8.com/bubbles/100/apple-mail.png" width="60" /></a>
+</p>
 
-</div>
+---
+
+<h2 align="center">📖 Quote of the Day 📖</h2>
+
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:000428&height=100&section=footer"/>
+</p>
