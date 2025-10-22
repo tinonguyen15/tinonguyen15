@@ -48,7 +48,13 @@
 
 <h2 align="center">🌐 Where to find me 🌐</h2>
 <br>
-<div align="center">
+<div align="center" style="
+    display: flex;
+    /* align-content: center; */
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+">
   <a href="https://tinonguyen.online" target="_blank">
     <img width="90" height="90" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="website" />
   </a>
