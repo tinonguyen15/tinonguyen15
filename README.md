@@ -58,11 +58,6 @@
   <a href="mailto:nguyenquochuy.150106@gmail.com" target="_blank" title="Email" style="text-decoration:none;">
     <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="50" alt="Email" style="vertical-align:middle;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- 💼 LinkedIn -->
-  <a href="https://www.linkedin.com/in/tinonguyen" target="_blank" title="LinkedIn" style="text-decoration:none;">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50" alt="LinkedIn" style="vertical-align:middle;"/>
-  </a>
 </p>
 
 ---
