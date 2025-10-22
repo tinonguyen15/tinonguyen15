@@ -38,30 +38,30 @@
 
 <br>
 
-<p align="center">
-  <!-- 🌍 Website -->
-  <a href="https://tinonguyen.online" target="_blank" title="Visit my website">
-    <img src="https://img.icons8.com/fluency/96/domain.png" width="55" alt="Website" />
+<p align="center" style="margin: 0; padding: 0;">
+  <!-- 🌎 Website -->
+  <a href="https://tinonguyen.online" target="_blank" title="Website" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="50" alt="Website" style="vertical-align:middle;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- 💙 Facebook -->
-  <a href="https://www.facebook.com/tinonguyen.15" target="_blank" title="Facebook">
-    <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="55" alt="Facebook" />
+  <a href="https://www.facebook.com/tinonguyen.15" target="_blank" title="Facebook" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="50" alt="Facebook" style="vertical-align:middle;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- ❤️ YouTube -->
-  <a href="https://www.youtube.com/@TiNoNguyen.15" target="_blank" title="YouTube">
-    <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="55" alt="YouTube" />
+  <a href="https://www.youtube.com/@TiNoNguyen.15" target="_blank" title="YouTube" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="50" alt="YouTube" style="vertical-align:middle;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- ✉️ Email -->
-  <a href="mailto:nguyenquochuy.150106@gmail.com" target="_blank" title="Email me">
-    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55" alt="Email" />
+  <!-- ✉️ Gmail -->
+  <a href="mailto:nguyenquochuy.150106@gmail.com" target="_blank" title="Email" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="50" alt="Email" style="vertical-align:middle;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- 💼 LinkedIn (tùy chọn thêm) -->
-  <a href="https://www.linkedin.com/in/tinonguyen" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="55" alt="LinkedIn" />
+  <!-- 💼 LinkedIn -->
+  <a href="https://www.linkedin.com/in/tinonguyen" target="_blank" title="LinkedIn" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50" alt="LinkedIn" style="vertical-align:middle;"/>
   </a>
 </p>
 
