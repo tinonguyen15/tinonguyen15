@@ -36,19 +36,45 @@
 
 <h2 align="center">🌐 Where to Find Me 🌐</h2>
 
+<br>
+
 <p align="center">
-  <a href="https://tinonguyen.online" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="45" /></a>
-  <a href="https://www.facebook.com/tinonguyen.15" target="_blank"><img src="https://img.icons8.com/bubbles/100/facebook-new.png" width="60" /></a>
-  <a href="https://www.youtube.com/@TiNoNguyen.15" target="_blank"><img src="https://img.icons8.com/bubbles/100/youtube-squared.png" width="60" /></a>
-  <a href="mailto:nguyenquochuy.150106@gmail.com"><img src="https://img.icons8.com/bubbles/100/apple-mail.png" width="60" /></a>
+  <!-- 🌍 Website -->
+  <a href="https://tinonguyen.online" target="_blank" title="Visit my website">
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="55" alt="Website" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- 💙 Facebook -->
+  <a href="https://www.facebook.com/tinonguyen.15" target="_blank" title="Facebook">
+    <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="55" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- ❤️ YouTube -->
+  <a href="https://www.youtube.com/@TiNoNguyen.15" target="_blank" title="YouTube">
+    <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="55" alt="YouTube" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- ✉️ Email -->
+  <a href="mailto:nguyenquochuy.150106@gmail.com" target="_blank" title="Email me">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- 💼 LinkedIn (tùy chọn thêm) -->
+  <a href="https://www.linkedin.com/in/tinonguyen" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="55" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">📖 Quote of the Day 📖</h2>
+<h2 align="center">💬 About Me 💬</h2>
 
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default" />
+  <i>"A self-taught developer from Viet Nam 🇻🇳, passionate about web technologies, product design, and building modern digital experiences that make life easier."</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=20&center=true&vCenter=true&width=550&lines=Keep+learning,+keep+building+🚀;Code,+Design,+Create,+Inspire+💡;From+Ideas+to+Reality+🌎" />
 </p>
 
 ---
